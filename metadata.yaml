@@ -1,0 +1,29 @@
+_repo: The-San-Francisco-Calamity-by-Earthquake-and-Fire_1560
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morris, Charles
+    birthdate: 1833
+    deathdate: 1922
+    gutenberg_agent_id: '656'
+    url: http://www.gutenberg.org/2009/agents/656
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2006-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Earthquakes -- California -- San Francisco -- History -- 20th century'
+- !lcsh 'San Francisco (Calif.) -- History -- 20th century'
+- !lcc 'F850.5'
+- !lcsh 'Fires -- California -- San Francisco -- History -- 20th century'
+- !lcsh 'San Francisco (Calif.) -- Biography'
+- !lcsh 'San Francisco Earthquake and Fire, Calif., 1906'
+- GITenberg
+title: The San Francisco Calamity by Earthquake and Fire
+url: http://www.gutenberg.org/ebooks/1560
