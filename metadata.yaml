@@ -1,5 +1,8 @@
 _repo: The-San-Francisco-Calamity-by-Earthquake-and-Fire_1560
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Morris, Charles
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '656'
     url: http://www.gutenberg.org/2009/agents/656
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1560#The-San-Francisco-Calamity-by-Earthquake-and-Fire
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2006-05-03'
 gutenberg_type: Text
